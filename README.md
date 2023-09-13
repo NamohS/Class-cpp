@@ -49,6 +49,7 @@ output:
 The code above is written in C++. It defines a class called "cube" which has public variables for height, width, and length. It also defines a main function which creates an instance of the "cube" class, gets the values for height, width, and length from the user, and then calculates and prints the volume of the cube.
 
 output:
+
           5
           5
           10
