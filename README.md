@@ -26,11 +26,12 @@ output:
           The volume of the cube is 750
 #### 3][Volume of a 3d obj calculator](inputandprintvolusingclass.cpp)
  This program calculates the volume of a 3D shape.The program prompts the user to enter the relevant dimensions of the shape. The program then calculates the volume of the shape and outputs the result to the console.
-  output:
+ 
+INPUT: 
             2
             2
             2
-
+OUTPUT:
             8
 
 #### 4][Dob and leap year]()
@@ -48,11 +49,12 @@ output:
 #### 5][Cube volume ](cubevol.cpp)
 The code above is written in C++. It defines a class called "cube" which has public variables for height, width, and length. It also defines a main function which creates an instance of the "cube" class, gets the values for height, width, and length from the user, and then calculates and prints the volume of the cube.
 
-output:
 
+INPUT:
           5
           5
           10
+OUTPUT:
           250
 
 #### 6] [Cuboid volume ](Cuboid.cpp)
@@ -60,12 +62,12 @@ The above code is written in C++. It defines a class called "Cuboid" which has p
 
 The main function creates an instance of the "Cuboid" class by passing the values for height, width, and length that are entered by the user. It then calls the "volume" method on the instance to calculate the volume of the cuboid and prints the result.
 
-OUTPUT:
 
+INPUT:
                10
                25
                5
-
+OUTPUT:
                750
 
 #### 7][Vol of cube](inputandprintvolusingclass.cpp)
