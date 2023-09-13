@@ -14,3 +14,11 @@ output:
      Enter the width of the cube: 15
 
      The volume of the cube is 750
+#### 2][Cube volume calculator]()
+
+output:
+          Enter the height of the cube: 5
+          Enter the width of the cube: 10
+          Enter the length of the cube: 15
+
+          The volume of the cube is 750
