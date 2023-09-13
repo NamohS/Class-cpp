@@ -9,7 +9,7 @@ class cube
     
     void volume()
  {
-    
+    cout<<(height*width*length);
  }
 };
 
