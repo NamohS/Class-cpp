@@ -54,3 +54,16 @@ output:
           5
           10
           250
+
+#### 6] [Cuboid volume ](Cuboid.cpp)
+The above code is written in C++. It defines a class called "Cuboid" which has private variables for height, width, and length. It also defines a constructor that takes the values for height, width, and length as arguments and initializes the private variables. The class also defines a method called "volume" that calculates and returns the volume of the cuboid.
+
+The main function creates an instance of the "Cuboid" class by passing the values for height, width, and length that are entered by the user. It then calls the "volume" method on the instance to calculate the volume of the cuboid and prints the result.
+
+OUTPUT:
+
+               10
+               25
+               5
+
+               750
