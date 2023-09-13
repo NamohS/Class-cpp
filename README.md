@@ -45,3 +45,11 @@ output:
            Enter date(dd/mm/yyyy): 15/03/1995
            leap year : true
            age: 27years  ,12months , 3days.
+#### 5][]()
+The code above is written in C++. It defines a class called "cube" which has public variables for height, width, and length. It also defines a main function which creates an instance of the "cube" class, gets the values for height, width, and length from the user, and then calculates and prints the volume of the cube.
+
+output:
+          5
+          5
+          10
+          250
