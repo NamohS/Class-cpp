@@ -32,3 +32,16 @@ output:
             2
 
             8
+
+#### 4][Dob and leap year]()
+It defines a class called "day" which has private variables for date, month, and year. It has public methods for inputting values for these variables, checking if the year is a leap year, and calculating the age of a person given their date of birth.
+
+The main function creates an instance of the "day" class and calls the input method to get the date, month, and year from the user. It then calls the leap_checker method to check if the year is a leap year and prints the result. It then calls the agefunction method to calculate the age of the person and prints the result.
+
+The output of the program will be the age of the person in years, months, and days. For example, if the user enters their date of birth as 15/03/1995 and the current date is 18/03/2023, the output will be "age: 27years ,12months , 3days.
+
+output:
+
+           Enter date(dd/mm/yyyy): 15/03/1995
+           leap year : true
+           age: 27years  ,12months , 3days.
