@@ -9,7 +9,7 @@ The main function of the program creates an instance of the `cube` class and the
 
 output:
 
-  Enter the height of the cube: 5
+*  Enter the height of the cube: 5
   Enter the length of the cube: 10
   Enter the width of the cube: 15
 
