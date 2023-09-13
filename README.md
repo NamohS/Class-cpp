@@ -24,3 +24,11 @@ output:
           Enter the length of the cube: 15
 
           The volume of the cube is 750
+#### 3][Volume of a 3d obj calculator]()
+ This program calculates the volume of a 3D shape.The program prompts the user to enter the relevant dimensions of the shape. The program then calculates the volume of the shape and outputs the result to the console.
+  output:
+            2
+            2
+            2
+
+            8
