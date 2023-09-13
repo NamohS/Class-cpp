@@ -14,7 +14,7 @@ output:
      Enter the width of the cube: 15
 
      The volume of the cube is 750
-#### 2][Cube volume calculator]()
+#### 2][Cube volume calculator](inputandprintvolusingclasswithfunc.cpp)
 
 This program calculates the volume of a cube. The user is prompted to enter the height, width, and length of the cube. The program then calculates the volume of the cube and outputs the result to the console.
 
