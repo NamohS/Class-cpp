@@ -69,3 +69,35 @@ OUTPUT:
                750
 
 #### 7][]()
+
+The first line of code, #include <iostream>, tells the compiler to include the iostream header file, which contains declarations for input and output operations.
+
+The next line of code, using namespace std;, tells the compiler to use the std namespace, which contains commonly used functions and types.
+
+The next line of code, class cube, declares a class called cube. This class has three public members: height, width, and length. These members are all of type double.
+
+The next line of code, int main(), declares the main function. This is the function that is called when the program starts.
+
+The first line inside the main function, struct cube cu1;, declares a struct variable called cu1 of type cube. This struct variable is used to store the height, width, and length of the cube.
+
+The next three lines of code, cin>>cu1.height; cin>>cu1.length; cin>>cu1.width;, read the height, width, and length of the cube from the user.
+
+The next line of code, double vol=cu1.height*cu1.length*cu1.width;, calculates the volume of the cube.
+
+The last line of code, cout<<vol;, prints the volume of the cube to the console.
+
+In this code, there are no pointers used. However, you can use pointers to access the members of the cube struct. For example, the following code would get the height of the cube:
+
+double height = cu1.height;
+This code would create a pointer to the height member of the cu1 struct and then dereference the pointer to get the value of the member.
+
+
+Input:
+
+          height = 1.0
+          width = 1.0
+          length = 1.0
+
+Output:
+
+          1.0
