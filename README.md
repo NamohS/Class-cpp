@@ -27,11 +27,12 @@ output:
 #### 3][Volume of a 3d obj calculator](inputandprintvolusingclass.cpp)
  This program calculates the volume of a 3D shape.The program prompts the user to enter the relevant dimensions of the shape. The program then calculates the volume of the shape and outputs the result to the console.
  
-INPUT: 
+     INPUT: 
             2
             2
             2
-OUTPUT:
+
+     OUTPUT:
             8
 
 #### 4][Dob and leap year]()
@@ -41,7 +42,7 @@ The main function creates an instance of the "day" class and calls the input met
 
 The output of the program will be the age of the person in years, months, and days. For example, if the user enters their date of birth as 15/03/1995 and the current date is 18/03/2023, the output will be "age: 27years ,12months , 3days.
 
-output:
+     output:
 
            Enter date(dd/mm/yyyy): 15/03/1995
            leap year : true
@@ -50,11 +51,11 @@ output:
 The code above is written in C++. It defines a class called "cube" which has public variables for height, width, and length. It also defines a main function which creates an instance of the "cube" class, gets the values for height, width, and length from the user, and then calculates and prints the volume of the cube.
 
 
-INPUT:
+     INPUT:
           5
           5
           10
-OUTPUT:
+     OUTPUT:
           250
 
 #### 6] [Cuboid volume ](Cuboid.cpp)
@@ -63,11 +64,11 @@ The above code is written in C++. It defines a class called "Cuboid" which has p
 The main function creates an instance of the "Cuboid" class by passing the values for height, width, and length that are entered by the user. It then calls the "volume" method on the instance to calculate the volume of the cuboid and prints the result.
 
 
-INPUT:
+     INPUT:
                10
                25
                5
-OUTPUT:
+     OUTPUT:
                750
 
 #### 7][Vol of cube](inputandprintvolusingclass.cpp)
